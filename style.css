@@ -5,3 +5,17 @@ nav{
     justify-content:space-evenly;
     
 }
+h1{
+    background-color: rgb(229, 242, 187);
+}
+body{
+    background-color:#414141;
+}
+
+.button{
+    background-color:rgb(96, 241, 193) ;
+    height: 50px;
+
+    padding: 30px;
+   
+}
