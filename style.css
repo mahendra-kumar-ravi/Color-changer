@@ -1,0 +1,7 @@
+nav{
+    background-color: rgb(128, 213, 213);
+    display: flex;
+    padding: 10px;
+    justify-content:space-evenly;
+    
+}
